@@ -38,6 +38,7 @@ export default sxzz([
       'playground/vue3/**',
       'packages/{volar,eslint-config}/**',
       '**/raw.ts',
+      '**/volar.ts',
     ],
     rules: {
       'import/no-default-export': 'off',

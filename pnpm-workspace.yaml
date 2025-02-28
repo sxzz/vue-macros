@@ -53,6 +53,8 @@ catalog:
   magic-string: ^0.30.17
   prettier: ^3.5.1
   rollup: ^4.34.8
+  ts-macro: ^0.1.17
+
   typescript: ^5.7.3
   unplugin: ^1.16.1
   unplugin-oxc: ^0.2.4
@@ -60,7 +62,6 @@ catalog:
   vite: ^6.1.1
   vite-plugin-stylex: ^0.13.0
   vitepress: ^2.0.0-alpha.2
-
 packages:
   - packages/*
   - playground/*
